@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, Me chamo Igor!
 
-<!--
-**hexaMe-bit/hexaMe-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo(a) ao meu perfil! Sou estudante de **Ciência da Computação** e um entusiasta de tecnologia, programação e cibersegurança.
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Graduando em Ciência da Computação
+- 📚 Já estudei as linguagens **Python** e **Java**
+- 🚀 Tenho interesse em aprender e explorar **C++**, **C#** e **Go**
+- 🔒 Apaixonado por **cibersegurança** e desenvolvimento de software
+- 🤝 Estou sempre em busca de desafios e novas oportunidades para expandir meus conhecimentos
+
+## 🛠️ Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+## 📫 Contato
+
+- Email: contapraestudar638@gmail.com 
+
+---
+
+⭐️ Obrigado por visitar meu perfil! Se compartilha dos mesmos interesses, vamos conversar!
