@@ -1,7 +1,8 @@
+---
 # 👋 Olá, Me chamo Igor!
 
 Seja bem-vindo(a) ao meu perfil! Sou estudante de **Ciência da Computação** e um entusiasta de tecnologia, programação e cibersegurança.
----
+
 ## 👨‍💻 Sobre Mim
 
 - 🎓 Graduando em Ciência da Computação
