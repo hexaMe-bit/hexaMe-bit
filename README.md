@@ -9,7 +9,7 @@ Seja bem-vindo(a) ao meu perfil! Sou estudante de **Ciência da Computação** e
 - 🚀 Tenho interesse em aprender e explorar **C++**, **C#** e **Go**
 - 🔒 Apaixonado por **cibersegurança** e desenvolvimento de software
 - 🤝 Estou sempre em busca de desafios e novas oportunidades para expandir meus conhecimentos
----
+
 ## 🛠️ Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
