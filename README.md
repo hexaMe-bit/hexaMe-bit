@@ -35,5 +35,3 @@ Seja bem-vindo(a) ao meu perfil! Sou estudante de **Ciência da Computação** e
 - Email: igorsilvaprogenio@gmail.com 
 
 ---
-
-⭐️ Obrigado por visitar meu perfil! Se compartilha dos mesmos interesses, vamos conversar!
