@@ -8,18 +8,18 @@ Atualmente, estou focado em reconstruir e fortalecer meus fundamentos em program
 
 </div>
 
-👨‍💻 Sobre mim
-🎓 Estudante de Ciência da Computação.
-📚 Revisitando conceitos fundamentais de programação e lógica.
-💻 Já tive contato com Python e Java.
-⚙️ Tenho curiosidade sobre computação de baixo nível e arquitetura de computadores.
-🧩 Gosto de entender como as coisas funcionam internamente e de construir soluções a partir do zero.
-🌱 Atualmente, estou focado em aprender, praticar e evoluir gradualmente.
-🛠️ Tecnologias
+ Sobre mim
+ Estudante de Ciência da Computação.
+ Revisitando conceitos fundamentais de programação e lógica.
+ Já tive contato com Python e Java.
+ Tenho curiosidade sobre computação de baixo nível e arquitetura de computadores.
+ Gosto de entender como as coisas funcionam internamente e de construir soluções a partir do zero.
+ Atualmente, estou focado em aprender, praticar e evoluir gradualmente.
+ Tecnologias
 
 <div align="center">
 
-!Python !Java !Linux !Git
+Python Java Linux Git
 
 </div>
 
