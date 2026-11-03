@@ -25,7 +25,7 @@ Python Java Linux Git
 
 📌 Atualmente estudando,
 Fundamentos de programação.
-Linguagem C e conceitos de baixo nível e
+Linguagem C, conceitos de baixo nível e
 Organização e arquitetura de computadores.
 
 
