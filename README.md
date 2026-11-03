@@ -1,37 +1,45 @@
----
-# 👋 Olá, Me chamo Igor!
+<div align="center">
 
-Seja bem-vindo(a) ao meu perfil! Sou estudante de **Ciência da Computação** e um entusiasta de tecnologia, programação e cibersegurança.
+👋 Olá! Eu sou Igor Silva
 
-## 👨‍💻 Sobre Mim
+Estudante de Ciência da Computação
 
-- 🎓 Graduando em Ciência da Computação
-- 📚 Já estudei as linguagens **Python** e **Java**
-- 🚀 Tenho interesse em aprender e explorar **C++**, **C#** e **Go**
-- 🔒 Apaixonado por **cibersegurança** e desenvolvimento de software
-- 🤝 Estou sempre em busca de desafios e novas oportunidades para expandir meus conhecimentos
+Atualmente, estou focado em reconstruir e fortalecer meus fundamentos em programação e computação, buscando desenvolver minhas habilidades através dos estudos e de pequenos projetos.
 
-## 🛠️ Tecnologias e Ferramentas
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+👨‍💻 Sobre mim
+🎓 Estudante de Ciência da Computação.
+📚 Revisitando conceitos fundamentais de programação e lógica.
+💻 Já tive contato com Python e Java.
+⚙️ Tenho curiosidade sobre computação de baixo nível e arquitetura de computadores.
+🧩 Gosto de entender como as coisas funcionam internamente e de construir soluções a partir do zero.
+🌱 Atualmente, estou focado em aprender, praticar e evoluir gradualmente.
+🛠️ Tecnologias
+
+<div align="center">
+
+!Python !Java !Linux !Git
+
+</div>
+
+📌 Atualmente estudando
+Fundamentos de programação.
+Linguagem C e conceitos de baixo nível.
+Organização e arquitetura de computadores.
 
 
-### Estatísticas do GitHub
-<p align="center">
-  <!-- Espelho para evitar erro de limite da API -->
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HexaMe-bit&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HexaMe-bit&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+📫 Contato
+<div align="center">
 
+<a href="mailto:igorsilvaprogenio@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
+</div>
 
+<div align="center">
 
-## 📫 Contato
+Um passo de cada vez, construindo uma base sólida.
 
-- Email: igorsilvaprogenio@gmail.com 
-
----
+</div>
